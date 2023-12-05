@@ -1,2 +1,2 @@
 # leitor-de-qrcode
-fiz o leitor com HTML, CSS e JAVASCRIPT
+fiz o leitor com HTMl e CSS
